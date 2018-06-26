@@ -1,0 +1,96 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Quiz App</string>
+
+    <!--Question 1-->
+    <string name="question1">1. Who is the current president of the united state?</string>
+    <string name="question1_option1">Barack Obama</string>
+    <string name="question1_option2">Bill Clinton</string>
+    <string name="question1_option3">Donald Trump</string>
+    <string name="question1_option4">John Kennedy</string>
+
+    <!--Question 2-->
+    <string name="question2">2. How many continents are there in the world</string>
+    <string name="question2_option1">5</string>
+    <string name="question2_option2">9</string>
+    <string name="question2_option3">7</string>
+    <string name="question2_option4">8</string>
+
+    <!--Question 3-->
+    <string name="question3">3. The Google Africa Scholarship programme was sponsored by?</string>
+    <string name="question3_option1">Andela</string>
+    <string name="question3_option2">Udacity</string>
+    <string name="question3_option3">Google</string>
+    <string name="question3_option4">All of the above</string>
+
+    <!--Question 4-->
+    <string name="question4">4. Who\'s the best dancer?</string>
+    <string name="question4_option1">Kaptain Kunal</string>
+    <string name="question4_option2">Katherine Kuan</string>
+    <string name="question4_option3">Lyla Fujiwara</string>
+    <string name="question4_option4">All of the above</string>
+
+    <!--Question 5-->
+    <string name="question5">5. Which programming language(s) is/are used for building Android apps</string>
+    <string name="question5_option1">Kotlin</string>
+    <string name="question5_option2">Java</string>
+    <string name="question5_option3">XML</string>
+    <string name="question5_option4">Usain Bolt</string>
+
+    <!--Question 6-->
+    <string name="question6">6. What country is River Nile in?</string>
+    <string name="question6_option1">Egypt</string>
+    <string name="question6_option2">Congo</string>
+    <string name="question6_option3">USA</string>
+    <string name="question6_option4">Russia</string>
+
+    <!--Question 7-->
+    <string name="question7">7. The highest mountain in the world is?</string>
+    <string name="question7_option1">Everest</string>
+    <string name="question7_option2">Fiji</string>
+    <string name="question7_option3">Kilimanjaro</string>
+    <string name="question7_option4">Makalu</string>
+
+    <!--Question 8-->
+    <string name="question8">8. The largest ocean in the world is</string>
+    <string name="question8_option1">Atlantic</string>
+    <string name="question8_option2">Indian</string>
+    <string name="question8_option3">Pacific</string>
+    <string name="question8_option4">Arctic</string>
+
+    <!--Question 9-->
+    <string name="question9">9. Pick the odd one(s) out</string>
+    <string name="question9_option1">Secured</string>
+    <string name="question9_option2">Private</string>
+    <string name="question9_option3">Public</string>
+    <string name="question9_option4">Exposed</string>
+    <string name="question9_option5">Protected</string>
+
+    <string name="numberTen">10.</string>
+
+
+    <!--Question 10-->
+    <string name="question10">10. An object that provides runtime binding between separate
+        components, such as two activities is called.</string>
+
+    <!--EditText Hint-->
+    <string name="hint">Enter Answer</string>
+
+    <string name="submit">Submit</string>
+
+    <string name="reset">Reset</string>
+
+    <string name="email">Email Result</string>
+
+
+    <string name="quiz">quiz!!!</string>
+    <string name="name">Enter your name</string>
+    <string name="take_quiz">Take Quiz</string>
+    <string name="username">Welcome <xliff:g id="username" example="User">%s</xliff:g></string>
+    <string name="score">Score:  <xliff:g id="score" example="Score">%d</xliff:g> out of 20.</string>
+
+    <!--Answer for question 8-->
+    <string name="answer8">pacific</string>
+
+    <!--Answer for question 10-->
+    <string name="answer10">intent</string>
+</resources>
