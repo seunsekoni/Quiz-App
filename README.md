@@ -2,7 +2,7 @@
 
 An educative android app to test your knowledge about current affairs
 
-#How to use the app
+# How to use the app
 
 Enter your name
 Answer all questions
