@@ -23,7 +23,7 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="scalingPercent" value="159" />
+                                                <entry key="scalingPercent" value="161" />
                                                 <entry key="trimmed" value="true" />
                                               </map>
                                             </option>
@@ -36,7 +36,7 @@
                                     <map>
                                       <entry key="backgroundLayerName" value="ic_launcher_background" />
                                       <entry key="foregroundImage" value="C:\Users\HP\AndroidStudioProjects\QuizApp2\app\src\main\res\drawable\icon_quiz.jpg" />
-                                      <entry key="foregroundLayerName" value="Quiz_launcher" />
+                                      <entry key="foregroundLayerName" value="quiz_launch" />
                                       <entry key="outputName" value="quiz_launcher" />
                                     </map>
                                   </option>
